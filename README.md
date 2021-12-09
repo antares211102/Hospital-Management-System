@@ -1,6 +1,6 @@
 # Hospital-Management-System ![AUR](https://img.shields.io/badge/BUILT%20WITH-Netbeans-blue.svg)
 Written in Java using Netbeans and MySQL
-A Hospital Management System Which I created for my 1st year project using java swings in netbeans with combination of MySQL Database.
+A Hospital Management System Which I created for my class 10th Board Practical Exam project using java swings in netbeans with combination of MySQL Database.
 
 * Uses MySQL in backend
 * Provides Password protection
